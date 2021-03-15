@@ -18,6 +18,10 @@
 ## Video
 [Click para ver](https://www.powtoon.com/w/cA7sTSURzOS/1/m)
 
+## Jupyter notebook
+[Click para ver](https://github.com/Luisjimherz/Bedu-Python-CarAccidentsMX/blob/main/main.ipynb)
+
+
 
 ## Prerequisitos 
 ```
