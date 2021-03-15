@@ -16,7 +16,7 @@
 
 
 ## Video
-![Link video](http://bit.ly/bedu14)
+[Click para ver](https://www.powtoon.com/w/cA7sTSURzOS/1/m)
 
 
 ## Prerequisitos 
